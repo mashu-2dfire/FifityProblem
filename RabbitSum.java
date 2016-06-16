@@ -32,7 +32,7 @@ class RabbitSum
 			}
 			System.out.println(rl.size());//将新出生的兔子加上，则为总数。
 		}
-	}
+	} 
 }
 class Rabbit
 {
