@@ -3,7 +3,7 @@
 例如：153是一个 "水仙花数 "，因为153=1的三次方＋5的三次方＋3的三次方。
 */
 import java.util.Scanner;
-class  ShuiXianHua
+class  ShuiXianHuaShu
 {
 	public static void main(String[] args) 
 	{
