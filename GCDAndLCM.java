@@ -9,6 +9,11 @@ class  GCDAndLCM
 		{
 			int num1=scan.nextInt();
 			int num2=scan.nextInt();
+			if(num1<0||num2<0)
+			{
+				System.out.println("输入不合法");
+				System.exit(-1);
+			}
 			int gcd=1;
 			int lcm=0;
 			for(int i=2;i<=num1&&i<=num2;i++)
